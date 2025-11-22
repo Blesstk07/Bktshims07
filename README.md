@@ -4,7 +4,7 @@
 
 
 <p align="center">
-Architecte de mon destin 💪 | Développeur Web en formation 💻 | Basé à Kinshasa 🇨🇩
+⚡ Stratégie, code et progrès | 💻 Développeur Web | 🌍 Kinshasa 🇨🇩
 </p>
 
 ⚔️ **Mentalité "Blue Lock"**  
