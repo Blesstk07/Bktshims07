@@ -1,10 +1,7 @@
-# 👋 Yo, moi c’est Bless Tshimanga
+# 👋 Yo, moi c’est Bless Tshimanga Kalala
 
-> « Le terrain appartient à celui qui le lit le mieux. » — Yoichi Isagi
+> « Je ne suis pas là pour jouer avec vous. Je suis là pour vous écraser et remporter la victoire. » — Yoichi Isagi
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
-  <img src="https://i.imgur.com/rszTFzm.gif" width="300" style="border-radius:10px; border:2px solid #ff6600;"/>
-</div>
 
 <p align="center">
 Architecte de mon destin 💪 | Développeur Web en formation 💻 | Basé à Kinshasa 🇨🇩
@@ -69,30 +66,31 @@ Le code est mon terrain — et chaque projet est un match que je joue pour gagne
 
 <div align="center" style="margin-top:10px;">
   <a href="mailto:tshimangabless2000@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="40" style="color:#D14836;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110"/>
   </a>
   <a href="https://github.com/Blesstk07" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="40" style="color:#171515;" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" width="110"/>
   </a>
   <a href="https://tiktok.com/blesstk07" title="TikTok">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tiktok.svg" width="40" style="color:#000000;" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="110"/>
   </a>
   <a href="https://wa.me/243974795742" title="WhatsApp">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/whatsapp.svg" width="40" style="color:#25D366;" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="110"/>
   </a>
   <a href="https://instagram.com/Blesstk07" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="40" style="color:#C13584;" />
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" width="110"/>
   </a>
   <a href="https://www.linkedin.com/in/bless-tshimanga-1a4114343/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="40" style="color:#0A66C2;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="110"/>
   </a>
 </div>
+
 
 ---
 
 ## 💬 Citation motivante
 
-> « Si tu ne changes pas maintenant, tu ne changeras jamais. »
+> « Pour devenir le meilleur, il faut dévorer les forces des autres et les faire siennes.. »
 
 🙏 Merci d’être passé !  
 N’hésite pas à explorer mes projets, me suivre ou me contacter 👊🔥
