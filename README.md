@@ -55,7 +55,7 @@ Le code est mon terrain — et chaque projet est un match que je joue pour gagne
 
 ### 🔤 Langages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blesstk07&layout=compact&theme=blue" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blesstk07&layout=compact&theme=radical&hide_border=false" width="400"/>
 </p>
 
 ### 🛠️ Outils & Environnement
