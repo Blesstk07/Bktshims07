@@ -51,6 +51,7 @@ Le code est mon terrain — et chaque projet est un match que je joue pour gagne
 ## 🧰 Compétences & Outils
 
 ### 🔤 Langages
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,c,dart,sql" /> </p>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Blesstk07&layout=compact&theme=radical&hide_border=false" width="400"/>
 </p>
