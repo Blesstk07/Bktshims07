@@ -10,7 +10,7 @@
   </a>
 </p>
 
-> *« Je ne suis pas là pour jouer avec vous. Je suis là pour vous écraser et remporter la victoire. »* > — **Yoichi Isagi (Blue Lock)**
+> *« Je ne suis pas là pour jouer avec vous. Je suis là pour vous écraser et remporter la victoire. »* <br> — **Yoichi Isagi (Blue Lock)**
 
 <p align="center">
   ⚡ <strong>Stratégie • Code • Progrès</strong> ⚡ <br>
@@ -38,14 +38,33 @@ Je suis comme **Yoichi Isagi** : j’analyse le terrain, je m’adapte aux obsta
 
 ## 🚀 Projets Réalisés / En Cours
 
-| Projet | Description |
-| :--- | :--- |
-| <a href="https://github.com/Blesstk07/Site-commerce"><img src="https://img.shields.io/badge/🛒_Site_Commerce-0A66C2?style=flat-square" /></a> | Plateforme e-commerce moderne et fluide. |
-| <a href="https://github.com/Blesstk07/Mon-portfolio"><img src="https://img.shields.io/badge/🎨_Portfolio-228B22?style=flat-square" /></a> | Portfolio responsive, stylisé et animé. |
-| <a href="https://github.com/Blesstk07/encouragement"><img src="https://img.shields.io/badge/⭐_Encouragement-DAA520?style=flat-square" /></a> | Système d'envoi et de partage de messages positifs. |
-| <a href="https://github.com/Blesstk07/devoirphp1"><img src="https://img.shields.io/badge/🧾_Facturation-FF8C00?style=flat-square" /></a> | Solution de facturation automatisée pour supermarché en PHP. |
-| <a href="https://github.com/Blesstk07/gestion_salle_tp_php"><img src="https://img.shields.io/badge/🏫_Gestion_Salles-B22222?style=flat-square" /></a> | Application de gestion des salles et horaires d’une faculté. |
-| <a href="https://github.com/Blesstk07/blog"><img src="https://img.shields.io/badge/📰_Blog_PHP-8A2BE2?style=flat-square" /></a> | Blog dynamique complet développé de A à Z en PHP. |
+<div align="center">
+
+### 🛒 Site E-commerce
+[![Site Commerce](https://github-readme-api.vercel.app/api/pin/?username=Blesstk07&repo=Site-commerce&theme=radical)](https://github.com/Blesstk07/Site-commerce)
+*Plateforme e-commerce moderne et fluide.*
+
+### 🎨 Mon Portfolio
+[![Mon Portfolio](https://github-readme-api.vercel.app/api/pin/?username=Blesstk07&repo=Mon-portfolio&theme=radical)](https://github.com/Blesstk07/Mon-portfolio)
+*Portfolio responsive, stylisé et animé.*
+
+### ⭐ Encouragement
+[![Encouragement](https://github-readme-api.vercel.app/api/pin/?username=Blesstk07&repo=encouragement&theme=radical)](https://github.com/Blesstk07/encouragement)
+*Système d'envoi et de partage de messages positifs.*
+
+### 🧾 Facturation Supermarché
+[![Facturation](https://github-readme-api.vercel.app/api/pin/?username=Blesstk07&repo=devoirphp1&theme=radical)](https://github.com/Blesstk07/devoirphp1)
+*Solution de facturation automatisée pour supermarché développée en PHP.*
+
+### 🏫 Gestion des Salles de TP
+[![Gestion Salles](https://github-readme-api.vercel.app/api/pin/?username=Blesstk07&repo=gestion_salle_tp_php&theme=radical)](https://github.com/Blesstk07/gestion_salle_tp_php)
+*Application web de gestion des salles et horaires d’une faculté.*
+
+### 📰 Blog Dynamique
+[![Blog PHP](https://github-readme-api.vercel.app/api/pin/?username=Blesstk07&repo=blog&theme=radical)](https://github.com/Blesstk07/blog)
+*Blog dynamique complet développé de A à Z en PHP.*
+
+</div>
 
 ---
 
@@ -70,8 +89,8 @@ Je suis comme **Yoichi Isagi** : j’analyse le terrain, je m’adapte aux obsta
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blesstk07&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Blesstk07&theme=radical" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.get-layout.com/api?username=Blesstk07&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blesstk07&theme=radical" height="170" alt="GitHub Streak" />
 </p>
 
 ---
