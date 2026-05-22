@@ -90,13 +90,6 @@ et chaque projet est un match que je joue pour gagner.
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,c,dart,mysql" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blesstk07&layout=compact&theme=radical" 
-    height="165"
-  />
-</p>
-
 ---
 
 ## 🛠️ Outils & Environnement
