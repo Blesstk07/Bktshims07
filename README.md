@@ -69,8 +69,7 @@ Je suis comme **Yoichi Isagi** : j’analyse le terrain, je m’adapte aux obsta
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Blesstk07&show_icons=true&theme=radical&locale=fr" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blesstk07&theme=radical" height="170" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blesstk07&theme=radical" height="170" alt="GitHub Stats" />
 </p>
 
 ---
