@@ -1,4 +1,4 @@
-```md id="u9v3ke"
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Blesstk07/Blesstk07/main/banner.png" />
 </p>
