@@ -61,7 +61,7 @@ Je suis comme **Yoichi Isagi** : j’analyse le terrain, je m’adapte aux obsta
 ### 🛠️ Outils & Environnement
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,datagrip,github,xampp" alt="Mes Outils" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,xampp" alt="Mes Outils" />
   </a>
 </p>
 
