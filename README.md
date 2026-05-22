@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Blesstk07/Blesstk07/main/banner.png" alt="Banner"/>
+  <img src="Gemini_Generated_Image_hm0eywhm0eywhm0e.png" alt="Bless Tshimanga Kalala - GitHub Profile Dashboard" width="100%">
 </p>
 
 # 👋 Oi, moi c’est Bless Tshimanga Kalala
