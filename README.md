@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Blesstk07/Blesstk07/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/Blesstk07/Blesstk07/main/banner.png" alt="Banner"/>
 </p>
 
-# 👋 Yo, moi c’est Bless Tshimanga Kalala
+# 👋 Oi, moi c’est Bless Tshimanga Kalala
 
 <p align="center">
 
@@ -36,8 +36,8 @@ et chaque projet est un match que je joue pour gagner.
 - 🔭 Développeur Web passionné
 - 🧠 Technologies : **HTML, CSS, JavaScript, Java, PHP, Python, SQL, C, Dart**
 - 🌍 Basé à Kinshasa, RDC
-- 📚 Toujours en apprentissage et en progression
-- 🎯 Passionné par le développement de projets web modernes et dynamiques
+- 📚 Toujours en apprentissage
+- 🎯 Passionné par les projets web modernes et dynamiques
 - 📫 Contact : **tshimangabless2000@gmail.com**
 
 ---
@@ -76,7 +76,7 @@ et chaque projet est un match que je joue pour gagner.
 🛒 Site e-commerce moderne <br>
 🎨 Portfolio responsive et animé <br>
 🧾 Système de facturation pour supermarché <br>
-🏫 Gestion des salles, horaires et cours d’une faculté <br>
+🏫 Gestion des salles et horaires d’une faculté <br>
 📰 Blog dynamique développé en PHP
 </p>
 
@@ -91,7 +91,10 @@ et chaque projet est un match que je joue pour gagner.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Blesstk07&layout=compact&theme=radical&hide_border=false" width="400"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blesstk07&layout=compact&theme=radical" 
+    height="165"
+  />
 </p>
 
 ---
@@ -107,13 +110,15 @@ et chaque projet est un match que je joue pour gagner.
 # 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blesstk07&show_icons=true&theme=radical" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Blesstk07&show_icons=true&theme=radical" 
+    height="170"
+  />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blesstk07&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blesstk07&theme=radical&margin-w=10&margin-h=10"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Blesstk07&theme=radical" 
+    height="170"
+  />
 </p>
 
 ---
@@ -153,14 +158,6 @@ et chaque projet est un match que je joue pour gagner.
 # 💬 Citation motivante
 
 > *« Pour devenir le meilleur, il faut dévorer les forces des autres et les faire siennes. »*
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Blesstk07/Blesstk07/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
