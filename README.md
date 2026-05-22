@@ -1,5 +1,5 @@
 # 👋 Yo, moi c’est Bless Tshimanga Kalala
-
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa/Blesstk07.svg)](https://user-badge.committers.top/congo_kinshasa/Blesstk07)
 > « Je ne suis pas là pour jouer avec vous. Je suis là pour vous écraser et remporter la victoire. » — Yoichi Isagi
 
 
@@ -64,6 +64,13 @@ Le code est mon terrain — et chaque projet est un match que je joue pour gagne
 
 ---
 
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blesstk07&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blesstk07&theme=radical" height="180"/>
+</p>
+
 ## 🔗 Me suivre
 
 <div align="center" style="margin-top:10px;">
@@ -93,6 +100,13 @@ Le code est mon terrain — et chaque projet est un match que je joue pour gagne
 ## 💬 Citation motivante
 
 > « Pour devenir le meilleur, il faut dévorer les forces des autres et les faire siennes.. »
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blesstk07/Blesstk07/output/github-contribution-grid-snake.svg" />
+</p>
 
 🙏 Merci d’être passé !  
 N’hésite pas à explorer mes projets, me suivre ou me contacter 👊🔥
